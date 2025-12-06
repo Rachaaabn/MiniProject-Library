@@ -1,4 +1,5 @@
 import java.io.Serializable;
+import java.util.Arrays;
 
 public class Book implements Serializable {
     private final int id;
